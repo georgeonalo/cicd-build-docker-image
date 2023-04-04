@@ -23,7 +23,7 @@
 
 ### Step 10: Clean Up
 
-### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeeded in creating this project.
+### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeded in creating this project.
 
 
 
