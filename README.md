@@ -3,27 +3,27 @@
 
 ### Steps taken to complete this project.
 
-### Step 1: Create a Repository in Docker Hub
+#### Step 1: Create a Repository in Docker Hub
 
-### Step 2: Create a GitHub Repository and Clone it on Your Computer
+#### Step 2: Create a GitHub Repository and Clone it on Your Computer
 
-### Step 3: Create the Dockerfile
+#### Step 3: Create the Dockerfile
 
-### Step 4: Create the Shell Scripts File
+#### Step 4: Create the Shell Scripts File
 
-### Step 5: Create Environment Variable
+#### Step 5: Create Environment Variable
 
-### Step 6: Create the Buildspec File
+#### Step 6: Create the Buildspec File
 
-### Step 7: Create Personal Access Token
+#### Step 7: Create Personal Access Token
 
-### Step 8: Create a CodeBuild Project
+#### Step 8: Create a CodeBuild Project
 
-### Step 9: Build Another Docker Image and Push it to Docker Hub
+#### Step 9: Build Another Docker Image and Push it to Docker Hub
 
-### Step 10: Clean Up
+#### Step 10: Clean Up
 
-### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeded in creating this project.
+#### Conclusion: By the time you have taken all the afformentioned steps, you would have succeeded in creating this project.
 
 
 
